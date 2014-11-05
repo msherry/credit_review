@@ -3,6 +3,8 @@ credit_review
 
 Credit review script
 
+![](https://i.imgur.com/WFmCulH.png)
+
 Prerequisites:
 --------------
 - ipython
